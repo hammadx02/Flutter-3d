@@ -35,8 +35,9 @@ class MainApp extends StatelessWidget {
                 // ),
                 SizedBox(
                   height: 400,
+                  width: double.maxFinite,
                   child: Flutter3DViewer(
-                    src: 'assets/3d/DamagedHelmet.glb',
+                    src: 'assets/3d/bmw_car.glb',
                   ),
                 ),
               ],
