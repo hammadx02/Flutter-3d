@@ -16,6 +16,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           elevation: 0,
+          backgroundColor: Colors.transparent,
           title: const Text(
             'Flutter 3D',
             style: TextStyle(
