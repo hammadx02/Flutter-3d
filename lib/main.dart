@@ -29,10 +29,6 @@ class MainApp extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Text(
-                //   'Damaged Helmet',
-                //   style: Theme.of(context).textTheme.headlineLarge,
-                // ),
                 SizedBox(
                   height: 400,
                   width: double.maxFinite,
